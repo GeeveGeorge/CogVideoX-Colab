@@ -1,7 +1,7 @@
 # CogVideoX-Colab
 A Colab notebook that demonstrates the capabilities of CogVideoX for text-to-video generation.
 
-1. [Colab Demo](https://colab.research.google.com/drive/1MaRTQaHG9rvHMzBFAyr1OyHtMXCZZMQF?usp=sharing) for CogVideoX-Colab! <a href="https://colab.research.google.com/drive/1MaRTQaHG9rvHMzBFAyr1OyHtMXCZZMQF?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
+1. [Colab Demo](https://colab.research.google.com/drive/1bLC0PjE_PGD0vqqN4d_Z_p8C5qOs1ktg?usp=sharing) for CogVideoX-Colab! <a href="https://colab.research.google.com/drive/1bLC0PjE_PGD0vqqN4d_Z_p8C5qOs1ktg?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 
 ## Preview
 
