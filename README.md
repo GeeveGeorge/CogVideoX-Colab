@@ -7,7 +7,7 @@ A Colab notebook that demonstrates the capabilities of CogVideoX for text-to-vid
 
 Here's a preview of what you can create with CogVideoX:
 
-[https://github.com/yourusername/CogVideoX-Colab/raw/main/video.mp4](https://github.com/GeeveGeorge/CogVideoX-Colab/blob/main/video.mp4)
+[https://github.com/GeeveGeorge/CogVideoX-Colab/raw/main/video.mp4](https://github.com/GeeveGeorge/CogVideoX-Colab/blob/main/video.mp4)
 
 ## Features
 
